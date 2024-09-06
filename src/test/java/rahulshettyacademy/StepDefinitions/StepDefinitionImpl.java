@@ -26,7 +26,7 @@ public class StepDefinitionImpl extends BaseTest {
 	@Given("^I landed on Ecommerce Page$")
 	public void i_landed_on_ecommerce_page() throws IOException {
 		landingPage = launchApplication();
-		// code
+	//code
 	}
 
 	@Given("^Logged in with username (.+) and password (.+)$")
